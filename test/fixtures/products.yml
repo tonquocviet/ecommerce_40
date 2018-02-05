@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  productID: 
+  Product_GroupID: 
+  Product_name: MyString
+  Price: 1.5
+  Size: MyString
+  Color: MyString
+  Discount: 1.5
+  Product_Decription: MyText
+  Quantity_Product_Available: 1
+  Discount_Customer_Available: 1
+  Rate: 
+  Product_Date_of_Entry: 2018-02-05 15:06:15
+
+two:
+  productID: 
+  Product_GroupID: 
+  Product_name: MyString
+  Price: 1.5
+  Size: MyString
+  Color: MyString
+  Discount: 1.5
+  Product_Decription: MyText
+  Quantity_Product_Available: 1
+  Discount_Customer_Available: 1
+  Rate: 
+  Product_Date_of_Entry: 2018-02-05 15:06:15
